@@ -29,7 +29,7 @@ Click and build your lighthouse, one block at a time, while enjoying beautiful C
 ## 🚀 Getting Started
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/YOUR-USERNAME/CSS-Lighthouse-Game.git
+git clone https://github.com/kirangangad/CSS-Lighthouse-Game.git
 
 # 2️⃣ Navigate into the folder
 cd CSS-Lighthouse-Game
