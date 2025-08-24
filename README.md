@@ -45,7 +45,7 @@
     <td>Cute animated dragon and interactions.</td>
   </tr>
   <tr>
-    <td><b>Lamp Login</b></td>
+    <td><b>Lamp_Login</b></td>
     <td><a href="./Lamp_login">/Lamp_login</a></td>
     <td>HTML, CSS, JS</td>
     <td>Themed login UI with lamp/light toggle effect.</td>
