@@ -1,6 +1,6 @@
 function n(e) {
-    this.init(e || {});
-}
+    this.init(e || {});    
+}      
 
 n.prototype = {
     init: function (e) {
@@ -177,4 +177,5 @@ const renderCanvas = function () {
 
 window.onload = function () {
     renderCanvas();
+
 };
