@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>Owner:</b> @kirangangad <br>
-  <b>Repo:</b> <code>HTML-Projects</code> 
+  <b>Repo:</b> <code>HTML-Projects</code>  
 </p>
 
 <hr>
