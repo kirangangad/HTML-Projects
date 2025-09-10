@@ -13,7 +13,7 @@
 <hr>
 
 <h2>📦 Projects</h2>
-<table>
+<table> 
   <tr>
     <th>Project</th>
     <th>Folder</th>
