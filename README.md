@@ -6,7 +6,7 @@
 </p>
  
 <p align="center">
-  <b>Owner:</b> @kirangangad <br> 
+  <b>Owner:</b> @kirangangad <br>  
   <b>Repo:</b> <code>HTML-Projects</code>  
 </p>
 
