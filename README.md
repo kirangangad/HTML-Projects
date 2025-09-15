@@ -4,7 +4,7 @@
   A collection of small, aesthetic front‑end experiments and mini‑apps built with <b>HTML, CSS, and a pinch of JavaScript</b>.<br>
   Perfect for beginners to explore UI/UX patterns and animations.
 </p>
-
+ 
 <p align="center">
   <b>Owner:</b> @kirangangad <br> 
   <b>Repo:</b> <code>HTML-Projects</code>  
