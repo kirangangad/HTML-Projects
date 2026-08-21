@@ -9,7 +9,7 @@
   <b>Repo:</b> <code>HTML-Projects</code>   
 </p>
 
-<hr>
+<hr>     
 
 <h2>📦 Projects</h2>
 <table> 
