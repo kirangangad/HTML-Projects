@@ -25,7 +25,7 @@
     <td>HTML, CSS, JS</td>
     <td>A simple keyboard‑controlled mini‑game with collision/score basics.</td>
   </tr>
-  <tr>
+  <tr>   
     <td><b>CSS Lighthouse Game</b></td>
     <td><a href="./CSS-Lighthouse-Game">/CSS-Lighthouse-Game</a></td>
     <td>HTML, <b>CSS‑only</b></td>
